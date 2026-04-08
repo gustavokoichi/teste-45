@@ -1,0 +1,18 @@
+{
+  "name": "app-pet",
+  "version": "1.0.0",
+  "description": "Cadastro de diário pet",
+  "main": "server.js",
+  "author": "Gustavo Koichi",
+  "type": "commonjs",
+  "license": "ISC",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.1",
+    "express": "^5.2.1",
+    "mongoose": "^8.23.0"
+  }
+}
